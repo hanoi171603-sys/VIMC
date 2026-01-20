@@ -1,0 +1,5 @@
+{
+  "name": "VIMC Car Booking",
+  "description": "A modern vehicle registration management system for VIMC Union, featuring trip tracking, approval workflows, and data export.",
+  "requestFramePermissions": []
+}
